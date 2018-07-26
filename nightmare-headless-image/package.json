@@ -1,0 +1,13 @@
+{
+  "name": "nightmare",
+  "version": "0.0.1",
+  "author": "unite.flights <docker@unite.flights>",
+  "dependencies": {
+ 	 "nightmare": "^3.0.1",
+   	 "vo": "^1.0.3",
+  	 "nightmare-download-manager": "^0.2.5",
+  	 "fs-extra": "^6.0.1"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
